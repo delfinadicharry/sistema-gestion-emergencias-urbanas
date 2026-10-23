@@ -1,0 +1,33 @@
+[
+    {
+        "intervencion_id": 1,
+        "reclamo_id": 1,
+        "empleado_id": 1,
+        "fecha": "2026-10-20",
+        "tareas_realizadas": "Se revisó la cañería y se reparó la pérdida.",
+        "observaciones": "Se utilizó una nueva sección de cañería de PVC para reemplazar la dañada.",
+        "fotografias": [
+            "foto/reparacion_agua1.jpg"
+        ]
+    },
+    {
+        "intervencion_id": 2,
+        "reclamo_id": 2,
+        "empleado_id": 2,
+        "fecha": "2026-10-21",
+        "tareas_realizadas": "Se revisó la instalación eléctrica del poste.",
+        "observaciones": "Es necesario cambiar la luminaria",
+        "fotografias": []
+    },
+    {
+        "intervencion_id": 3,
+        "reclamo_id": 2,
+        "empleado_id": 1,
+        "fecha": "2026-10-22",
+        "tareas_realizadas": "Se reemplazó la luminaria dañada.",
+        "observaciones": "Se instaló una nueva luminaria LED.",
+        "fotografias": [
+            "foto/luminaria_reparada.jpg"
+        ]
+    }
+]

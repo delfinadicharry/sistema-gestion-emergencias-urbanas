@@ -1,0 +1,27 @@
+[
+    {
+        "reclamo_id": 1,
+        "tipo_reclamo": "perdida de agua",
+        "tipo_caneria": "PVC",
+        "fotografias": [
+            "foto/perdida_agua1.jpg",
+            "foto/perdida_agua2.jpg"
+        ],
+        "observaciones": "Hay una pérdida de agua en la vereda."
+    },
+    {
+        "reclamo_id": 2,
+        "tipo_reclamo": "luminaria",
+        "numero_poste": 25,
+        "fotografias":[],
+        "observaciones": "La luminaria del poste 25 no funciona."
+    },
+    {
+        "reclamo_id": 3,
+        "tipo_reclamo": "bache",
+        "fotografias": [
+            "foto/bache1.jpg"
+        ],
+        "observaciones": "El bache dificulta el paso de vehículos."
+    }    
+]
